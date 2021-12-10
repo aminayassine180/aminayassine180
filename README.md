@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aminayassine180
-- 👀 I’m interested in myself.
-- 🌱 I’m currently learning everything.
+- 👋 Hi, I’m Amina Yassine  
+- 👀 I’m interested in art and programming.
+- 🌱 I’m currently learning the Unity engine and Blender.
 - 💞️ I’m looking to collaborate on things beyond my league.
-- 📫 How to reach me? Don't.
+- 📫 How to reach me? I am unreachable really.
 
 <!---
 aminayassine180/aminayassine180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
